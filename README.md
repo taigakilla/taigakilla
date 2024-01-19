@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @thiago1287
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="mage.gif" align="right" width= 600px/>
+<h1 align="left"><img src="raio1.gif" width="30px">Olá, meu nome é Thiago</h1>
 
-<!---
-thiago1287/thiago1287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Estudante de Sistema de Informação na UNIPAM.
+- 🐹 Email de contato: thiagosilva1@unipam.edu.br
+
+<img width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1287&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="mostLanguages"/>
+<img width="530em"src="https://github-readme-stats.vercel.app/api/wakatime?username=taigakilla&layout=compact&theme=tokyonight" alt="wakatime"/>
