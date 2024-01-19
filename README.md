@@ -5,4 +5,4 @@
 - 🐹 Email de contato: thiagosilva1@unipam.edu.br
 
 <img width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1287&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="mostLanguages"/>
-<img width="530em"src="https://github-readme-stats.vercel.app/api/wakatime?username=taigakilla&layout=compact&theme=tokyonight" alt="wakatime"/>
+
