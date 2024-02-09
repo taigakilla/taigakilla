@@ -1,7 +1,8 @@
 <img src="mage.gif" align="right" width= "400px"/>
 <h1 align="left"><img src="raio1.gif" width="30px">Olá, meu nome é Thiago</h1>
 
-- 💻 Estudante de Sistema de Informação na UNIPAM.
+- 💻 Estudante de Sistema de Informação no UNIPAM.
+- 💼 Estagiário no Desenvolvimento de Sistemas no UNIPAM.
 - 🐹 Email de contato: thiagosilva1@unipam.edu.br
 
   <a href="https://www.linkedin.com/in/thiago1287/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
