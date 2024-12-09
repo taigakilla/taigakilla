@@ -13,5 +13,5 @@
 # 📊 Stats:
 <br></br>
 <img src="banner.jpg" align="right" width= "400px"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taigakilla&layout=compact&show_icons=true&theme=blue_navy&count_private=true&" alt="mostLanguages"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/wakatime?username=taigakilla&layout=compact&theme=blue_navy" alt="wakatime"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taigakilla&layout=compact&show_icons=true&theme=bear&count_private=true&" alt="mostLanguages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/wakatime?username=taigakilla&layout=compact&theme=bear" alt="wakatime"/>
